@@ -10,5 +10,9 @@ public class ShapeObjects {
         System.out.println(square);
         System.out.println(rectangle);
         System.out.println(circle);
+
+        rectangle.length= 5;
+        rectangle.width=2;
+        System.out.println(rectangle);
     }
 }
