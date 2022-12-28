@@ -10,6 +10,6 @@ public class ThrowsKeyword {
         System.out.println("**********************Test1 Completed******************************");
         System.out.println("Hello ");
         Thread.sleep(2500);
-        System.out.println("Batch 25");
+        System.out.println("Batch eu10");
     }
 }
